@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="description" content="this is the dufuna quiz one solution">
+    <title>IntroToHTML_Dufuna</title>
+</head>
+<body>
+
+<a href="http://www.google.com">Google</a>
+<h1>Hi There</h1>
+<b>A Dufuna Scholar</b><br>
+<em>Hello World</em><br>
+<p>This is intended to be a New Paragraph</p><br>
+<img src="https://nimeche-press-ui.000webhostapp.com/wp-content/uploads/2018/12/IMG-20190109-WA0000.jpg"></img><br>
+<hr>
+<i>Dufuna Scholar</i><br>
+<strong>Dufuna</strong><br>
+<P>This is normal text. <s>This is a strike through</s></P>
+<P>This is normal text. <sup>This is a super script</sup></P>
+<P>This is normal text. <sub>This is a sub script</sub></P>
+<iframe src="https://www.youtube.com/watch?v=yBIGodOQ2tc&list=PLN-hzLfTAKVkbJhqA_uOd8acgTz38nwON" height="250" width="250"></iframe><br>
+<p><article>This is a super brief article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aspernatur atque, cumque dolores ea earum et eveniet exercitationem impedit minima nisi non obcaecati officiis perferendis quae, quaerat tenetur vitae voluptas.</article>
+</p>
+</body>
+</html>
